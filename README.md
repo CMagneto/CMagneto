@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects </h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/CMagneto/Resume](https://www.google.com)
+  - [Praciting DS & Algos in Python](https://www.google.com)
 
 <h2>📺 Popular YouTube Videos</h2>
 
