@@ -1,10 +1,5 @@
 <h1>Hi, I'm Damon Campbell <br/><a href="https://github.com/CMagneto">Damon</a>, <a href="https://www.linkedin.com/in/damon-campbell-58394231b/">Future Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCQr_LTeZX_es-vSZBf7itwg">Beginning YouTuber</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects </h2>
-
-- <b>Researching Developing methods of charaterizing Encrypted Domain Name Server traffic</b>
-  - [Papers researched](https://www.google.com)
- 
 
 <h2>👨‍💻 Resume </h2>
 
