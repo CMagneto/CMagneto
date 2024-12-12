@@ -1,21 +1,21 @@
-<h1>Hi, I'm Damon Campbell <br/><a href="https://github.com/CMagneto">Damon</a>, <a href="https://www.linkedin.com/in/damon-campbell-58394231b/">Future Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Damon Campbell <br/><a href="https://github.com/CMagneto">Damon</a>, <a href="https://www.linkedin.com/in/damon-campbell-58394231b/">Future Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Beginning YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects </h2>
 
 - <b>Researching Developing methods of charaterizing Encrypted Domain Name Server traffic</b>
-  - [Praciting DS & Algos in Python](https://www.google.com)
+  - [Papers researched](https://www.google.com)
  
 
 <h2>👨‍💻 Software Development Projects </h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://www.google.com)
+- <b>Projects Developed for School and Home</b>
+  - [Software Development projects](https://www.google.com)
  
 
 <h2>👨‍💻 Certifications </h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://www.google.com)
+  - [Certifications](https://www.google.com)
 
 <h2>📺 Popular YouTube Videos</h2>
 
