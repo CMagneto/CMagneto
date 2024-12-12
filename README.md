@@ -20,7 +20,7 @@
 
 <h2>👨‍💻 Certifications </h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Current Certifications and Cerifcations Currently Pursuing</b>
   - [Certifications](https://www.google.com)
 
 <h2>📺 Popular YouTube Videos</h2>
