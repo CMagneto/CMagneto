@@ -9,13 +9,13 @@
 <h2>👨‍💻 Cybersecurity Development Projects </h2>
 
 - <b>Projects Developed for School and Home</b>
-  - [Cybersecurity Development projects](https://www.google.com)
+  - [Cybersecurity Development projects](https://github.com/CMagneto/SoftwareDevelopmentProjects)
  
 
 <h2>👨‍💻 Software Development Projects </h2>
 
 - <b>Projects Developed for School and Home</b>
-  - [Software Development projects](https://www.google.com)
+  - [Software Development projects](https://github.com/CMagneto/SoftwareDevelopmentProjects)
  
 
 <h2>👨‍💻 Certifications </h2>
