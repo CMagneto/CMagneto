@@ -9,7 +9,7 @@
 <h2>👨‍💻 Resume </h2>
 
 - <b>Current Resume</b>
-  - [Current Resume](https://www.google.com](https://github.com/CMagneto/ResumeMaster)
+  - [Current Resume](https://github.com/CMagneto/ResumeMaster)
 
 <h2>👨‍💻 Software Development Projects </h2>
 
