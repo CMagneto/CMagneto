@@ -9,7 +9,7 @@
 <h2>👨‍💻 Cybersecurity Development Projects </h2>
 
 - <b>Projects Developed for School and Home</b>
-  - [Cybersecurity Development projects](https://github.com/CMagneto/SoftwareDevelopmentProjects)
+  - [Cybersecurity Development projects](https://github.com/CMagneto/CybersecurityProjects)
  
 
 <h2>👨‍💻 Software Development Projects </h2>
