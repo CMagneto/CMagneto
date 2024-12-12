@@ -6,6 +6,11 @@
   - [Papers researched](https://www.google.com)
  
 
+<h2>👨‍💻 Resume </h2>
+
+- <b>Current Resume</b>
+  - [Current Resume](https://www.google.com)
+
 <h2>👨‍💻 Software Development Projects </h2>
 
 - <b>Projects Developed for School and Home</b>
