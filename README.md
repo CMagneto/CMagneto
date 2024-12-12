@@ -21,7 +21,7 @@
 <h2>👨‍💻 Certifications </h2>
 
 - <b>Current Certifications and Cerifcations Currently Pursuing</b>
-  - [Certifications](https://www.google.com)
+  - [Certifications](https://github.com/CMagneto/CertificationsPage)
 
 <h2>📺 Popular YouTube Videos</h2>
 
