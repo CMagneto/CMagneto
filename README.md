@@ -11,6 +11,12 @@
 - <b>Current Resume</b>
   - [Current Resume](https://github.com/CMagneto/ResumeMaster)
 
+<h2>👨‍💻 Cybersecurity Development Projects </h2>
+
+- <b>Projects Developed for School and Home</b>
+  - [Cybersecurity Development projects](https://www.google.com)
+ 
+
 <h2>👨‍💻 Software Development Projects </h2>
 
 - <b>Projects Developed for School and Home</b>
