@@ -26,7 +26,7 @@
 <h2>👨‍💻 Coding Examples </h2>
 
 - <b>Projects Developed for School and Home</b>
-  - [Cybersecurity Development projects](https://github.com/CMagneto/CybersecurityProjects)
+  - [Coding Development projects](https://github.com/CMagneto/CodingExamples)
  
 
 <h2> 🤳 Connect with me:</h2>
