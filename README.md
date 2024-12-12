@@ -41,7 +41,7 @@
 [twitter]: https://github.com/CMagneto/ResumeMaster
 [youtube]: https://github.com/CMagneto/ResumeMaster
 [instagram]: https://github.com/CMagneto/ResumeMaster
-[linkedin]: https://github.com/CMagneto/ResumeMaster
+[linkedin]: https://www.linkedin.com/in/damon-campbell-58394231b/
 
 <!--
 **DamonCampbell/DamonCampbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
