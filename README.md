@@ -27,7 +27,7 @@
 
 - <b>Projects Developed for School and Home</b>
   - [Coding Development projects](https://github.com/CMagneto/CodingExamples)
-  - [Coding Development projects](https://www.youtube.com/@DaCa-st2cj)
+  - [Arduino Development projects](https://www.youtube.com/@DaCa-st2cj)
  
 
 <h2> 🤳 Connect with me:</h2>
